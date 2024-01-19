@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crudAspNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ccfcfb3d842e2453b0ded4dbcf361200f9311aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fad6ad440205c99b91f7178d4cde526b38c00dde")]
 [assembly: System.Reflection.AssemblyProductAttribute("crudAspNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crudAspNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

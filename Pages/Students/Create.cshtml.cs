@@ -28,7 +28,6 @@ namespace crudAspNet.Pages_Students
         public Student Student { get; set; } = default!;
         
 
-        // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync()
         {
           if (!ModelState.IsValid || _context.Students == null || Student == null)

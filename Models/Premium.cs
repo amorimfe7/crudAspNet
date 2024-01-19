@@ -17,7 +17,6 @@ public class Premium
     public string Title { get; set; } = string.Empty;
     
     [DataType(DataType.DateTime)]
-    //[GreaterThanToday]
     [DisplayName("Início")]
     public DateTime StartDate { get; set; }
     

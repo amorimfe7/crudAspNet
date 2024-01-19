@@ -12,6 +12,6 @@ public class ApplicationDbContext : IdentityDbContext
     }
 
     //relacao app x db > cria tabela bd
-    public DbSet<Student> Students { get; set; } = default!; 
+    public DbSet<Student> Students { get; set; } = default!;   
     public DbSet<Premium> Premiums { get; set; } = default!;   
 }

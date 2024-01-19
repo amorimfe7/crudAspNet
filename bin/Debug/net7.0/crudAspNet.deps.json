@@ -12,6 +12,7 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.15",
           "Microsoft.AspNetCore.Identity.UI": "7.0.15",
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.15",
+          "Microsoft.EntityFrameworkCore.Sqlite.Core": "7.0.15",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.15"
         },
         "runtime": {

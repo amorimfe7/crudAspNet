@@ -77,3 +77,4 @@ C:\Users\Amorim\crudAspNet\obj\Debug\net7.0\refint\crudAspNet.dll
 C:\Users\Amorim\crudAspNet\obj\Debug\net7.0\crudAspNet.pdb
 C:\Users\Amorim\crudAspNet\obj\Debug\net7.0\crudAspNet.genruntimeconfig.cache
 C:\Users\Amorim\crudAspNet\obj\Debug\net7.0\ref\crudAspNet.dll
+C:\Users\Amorim\crudAspNet\obj\Debug\net7.0\crudAspNet.sourcelink.json
